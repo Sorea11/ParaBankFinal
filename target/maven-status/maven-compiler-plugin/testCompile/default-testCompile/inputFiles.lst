@@ -1,0 +1,13 @@
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\pages\PageObjects.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\driverFactory\DriverManager.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\runner\TestRunner.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\driverFactory\DriverType.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\pages\ParabankHomePage.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\actions\Actions.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\stepDefinition\LoginSteps.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\hooks\Hooks.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\util\WaitUtils.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\browserManager\ChromeManager.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\stepDefinition\AbstractStep.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\util\PropretyLoader.java
+C:\Users\step\Desktop\PB\Parabank1\src\test\java\driverFactory\DriverManagerFactory.java
